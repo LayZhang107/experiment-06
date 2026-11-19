@@ -1,0 +1,63 @@
+﻿theme,evidence_type,evidence_id,brand,evidence,review_text,source
+佩戴舒适,用户证据,R0002,索尼,低音太重,低音太重，人声不够自然，低频表现突出,实验四 consumer_evidence_table.csv
+佩戴舒适,用户证据,R0007,索尼,耳机有点重,耳机有点重，运动时容易掉,实验四 consumer_evidence_table.csv
+佩戴舒适,用户证据,R0013,索尼,戴久了夹耳朵,戴久了夹耳朵，舒适度不够,实验四 consumer_evidence_table.csv
+佩戴舒适,竞品覆盖证据,coverage:Apple AirPods:佩戴舒适,Apple AirPods,主题提及数=16; 覆盖率=0.1584,,实验五 brand_topic_coverage.csv
+佩戴舒适,竞品覆盖证据,coverage:Bose:佩戴舒适,Bose,主题提及数=15; 覆盖率=0.1531,,实验五 brand_topic_coverage.csv
+佩戴舒适,竞品覆盖证据,coverage:华为 FreeBuds:佩戴舒适,华为 FreeBuds,主题提及数=13; 覆盖率=0.13,,实验五 brand_topic_coverage.csv
+佩戴舒适,竞品覆盖证据,coverage:索尼:佩戴舒适,索尼,主题提及数=20; 覆盖率=0.2,,实验五 brand_topic_coverage.csv
+价格,用户证据,R0005,索尼,音质很好但价格确实贵,音质很好但价格确实贵，适合预算充足的人,实验四 consumer_evidence_table.csv
+价格,用户证据,R0025,索尼,价格偏高,价格偏高，促销少，性价比一般,实验四 consumer_evidence_table.csv
+价格,用户证据,R0026,索尼,音质很好但价格确实贵,音质很好但价格确实贵，适合预算充足的人,实验四 consumer_evidence_table.csv
+价格,竞品覆盖证据,coverage:Apple AirPods:价格,Apple AirPods,主题提及数=14; 覆盖率=0.1386,,实验五 brand_topic_coverage.csv
+价格,竞品覆盖证据,coverage:Bose:价格,Bose,主题提及数=14; 覆盖率=0.1429,,实验五 brand_topic_coverage.csv
+价格,竞品覆盖证据,coverage:华为 FreeBuds:价格,华为 FreeBuds,主题提及数=8; 覆盖率=0.08,,实验五 brand_topic_coverage.csv
+价格,竞品覆盖证据,coverage:索尼:价格,索尼,主题提及数=9; 覆盖率=0.09,,实验五 brand_topic_coverage.csv
+音质,用户证据,R0002,索尼,低音太重,低音太重，人声不够自然，低频表现突出,实验四 consumer_evidence_table.csv
+音质,用户证据,R0005,索尼,音质很好但价格确实贵,音质很好但价格确实贵，适合预算充足的人,实验四 consumer_evidence_table.csv
+音质,用户证据,R0016,索尼,低音太重,低音太重，人声不够自然,实验四 consumer_evidence_table.csv
+音质,竞品覆盖证据,coverage:Apple AirPods:音质,Apple AirPods,主题提及数=10; 覆盖率=0.099,,实验五 brand_topic_coverage.csv
+音质,竞品覆盖证据,coverage:Bose:音质,Bose,主题提及数=14; 覆盖率=0.1429,,实验五 brand_topic_coverage.csv
+音质,竞品覆盖证据,coverage:华为 FreeBuds:音质,华为 FreeBuds,主题提及数=13; 覆盖率=0.13,,实验五 brand_topic_coverage.csv
+音质,竞品覆盖证据,coverage:索尼:音质,索尼,主题提及数=11; 覆盖率=0.11,,实验五 brand_topic_coverage.csv
+包装,用户证据,R0017,索尼,外包装还有压痕,配送等待时间长，外包装还有压痕,实验四 consumer_evidence_table.csv
+包装,用户证据,R0058,索尼,外包装还有压痕,配送等待时间长，外包装还有压痕，低频表现突出,实验四 consumer_evidence_table.csv
+包装,用户证据,R0065,索尼,包装却比较简陋,配送很快，包装却比较简陋,实验四 consumer_evidence_table.csv
+包装,竞品覆盖证据,coverage:Apple AirPods:包装,Apple AirPods,主题提及数=5; 覆盖率=0.0495,,实验五 brand_topic_coverage.csv
+包装,竞品覆盖证据,coverage:Bose:包装,Bose,主题提及数=1; 覆盖率=0.0102,,实验五 brand_topic_coverage.csv
+包装,竞品覆盖证据,coverage:华为 FreeBuds:包装,华为 FreeBuds,主题提及数=2; 覆盖率=0.02,,实验五 brand_topic_coverage.csv
+包装,竞品覆盖证据,coverage:索尼:包装,索尼,主题提及数=0; 覆盖率=0.0,,实验五 brand_topic_coverage.csv
+包装,竞品评论证据,R0051,索尼,Apple AirPods与索尼竞争威胁指数为0.7969,包装完整，配送速度很快,实验五 competitive_evidence_table.csv
+包装,竞品评论证据,R0051,索尼,华为 FreeBuds与索尼竞争威胁指数为0.7058,包装完整，配送速度很快,实验五 competitive_evidence_table.csv
+包装,竞品评论证据,R0051,索尼,Bose与索尼竞争威胁指数为0.6912,包装完整，配送速度很快,实验五 competitive_evidence_table.csv
+连接稳定,用户证据,R0020,索尼,连接偶尔断开,连接偶尔断开，重新配对很麻烦,实验四 consumer_evidence_table.csv
+连接稳定,用户证据,R0042,索尼,连接偶尔断开,连接偶尔断开，重新配对很麻烦,实验四 consumer_evidence_table.csv
+连接稳定,用户证据,R0043,索尼,连接偶尔断开,连接偶尔断开，重新配对很麻烦，低频表现突出,实验四 consumer_evidence_table.csv
+连接稳定,竞品覆盖证据,coverage:Apple AirPods:连接稳定,Apple AirPods,主题提及数=6; 覆盖率=0.0594,,实验五 brand_topic_coverage.csv
+连接稳定,竞品覆盖证据,coverage:Bose:连接稳定,Bose,主题提及数=2; 覆盖率=0.0204,,实验五 brand_topic_coverage.csv
+连接稳定,竞品覆盖证据,coverage:华为 FreeBuds:连接稳定,华为 FreeBuds,主题提及数=7; 覆盖率=0.07,,实验五 brand_topic_coverage.csv
+连接稳定,竞品覆盖证据,coverage:索尼:连接稳定,索尼,主题提及数=4; 覆盖率=0.04,,实验五 brand_topic_coverage.csv
+通话,竞品覆盖证据,coverage:Apple AirPods:通话,Apple AirPods,主题提及数=9; 覆盖率=0.0891,,实验五 brand_topic_coverage.csv
+通话,竞品覆盖证据,coverage:Bose:通话,Bose,主题提及数=4; 覆盖率=0.0408,,实验五 brand_topic_coverage.csv
+通话,竞品覆盖证据,coverage:华为 FreeBuds:通话,华为 FreeBuds,主题提及数=8; 覆盖率=0.08,,实验五 brand_topic_coverage.csv
+通话,竞品覆盖证据,coverage:索尼:通话,索尼,主题提及数=8; 覆盖率=0.08,,实验五 brand_topic_coverage.csv
+配送,竞品覆盖证据,coverage:Apple AirPods:配送,Apple AirPods,主题提及数=11; 覆盖率=0.1089,,实验五 brand_topic_coverage.csv
+配送,竞品覆盖证据,coverage:Bose:配送,Bose,主题提及数=9; 覆盖率=0.0918,,实验五 brand_topic_coverage.csv
+配送,竞品覆盖证据,coverage:华为 FreeBuds:配送,华为 FreeBuds,主题提及数=13; 覆盖率=0.13,,实验五 brand_topic_coverage.csv
+配送,竞品覆盖证据,coverage:索尼:配送,索尼,主题提及数=11; 覆盖率=0.11,,实验五 brand_topic_coverage.csv
+配送,竞品评论证据,R0051,索尼,Apple AirPods与索尼竞争威胁指数为0.7969,包装完整，配送速度很快,实验五 competitive_evidence_table.csv
+配送,竞品评论证据,R0051,索尼,华为 FreeBuds与索尼竞争威胁指数为0.7058,包装完整，配送速度很快,实验五 competitive_evidence_table.csv
+配送,竞品评论证据,R0051,索尼,Bose与索尼竞争威胁指数为0.6912,包装完整，配送速度很快,实验五 competitive_evidence_table.csv
+续航,竞品覆盖证据,coverage:Apple AirPods:续航,Apple AirPods,主题提及数=8; 覆盖率=0.0792,,实验五 brand_topic_coverage.csv
+续航,竞品覆盖证据,coverage:Bose:续航,Bose,主题提及数=9; 覆盖率=0.0918,,实验五 brand_topic_coverage.csv
+续航,竞品覆盖证据,coverage:华为 FreeBuds:续航,华为 FreeBuds,主题提及数=11; 覆盖率=0.11,,实验五 brand_topic_coverage.csv
+续航,竞品覆盖证据,coverage:索尼:续航,索尼,主题提及数=10; 覆盖率=0.1,,实验五 brand_topic_coverage.csv
+续航,竞品评论证据,R0334,华为 FreeBuds,Apple AirPods与华为 FreeBuds竞争威胁指数为0.7544,续航很稳，一周充一次就够了,实验五 competitive_evidence_table.csv
+续航,竞品评论证据,R0340,华为 FreeBuds,Apple AirPods与华为 FreeBuds竞争威胁指数为0.7544,续航没有宣传的那么久，需要频繁充电,实验五 competitive_evidence_table.csv
+续航,竞品评论证据,R0334,华为 FreeBuds,华为 FreeBuds与索尼竞争威胁指数为0.7058,续航很稳，一周充一次就够了,实验五 competitive_evidence_table.csv
+降噪,竞品覆盖证据,coverage:Apple AirPods:降噪,Apple AirPods,主题提及数=10; 覆盖率=0.099,,实验五 brand_topic_coverage.csv
+降噪,竞品覆盖证据,coverage:Bose:降噪,Bose,主题提及数=15; 覆盖率=0.1531,,实验五 brand_topic_coverage.csv
+降噪,竞品覆盖证据,coverage:华为 FreeBuds:降噪,华为 FreeBuds,主题提及数=16; 覆盖率=0.16,,实验五 brand_topic_coverage.csv
+降噪,竞品覆盖证据,coverage:索尼:降噪,索尼,主题提及数=14; 覆盖率=0.14,,实验五 brand_topic_coverage.csv
+降噪,竞品评论证据,R0192,Bose,Apple AirPods与Bose竞争威胁指数为0.7295,降噪效果明显，地铁里也很安静，沉浸感很强,实验五 competitive_evidence_table.csv
+降噪,竞品评论证据,R0192,Bose,Bose与索尼竞争威胁指数为0.6912,降噪效果明显，地铁里也很安静，沉浸感很强,实验五 competitive_evidence_table.csv
