@@ -1,0 +1,10 @@
+﻿theme,user_importance,user_importance_pct,competitor_avg_coverage,content_gap,evidence_strength,opportunity_score,opportunity_type,user_evidence_ids,competitor_evidence_ids
+佩戴舒适,0.2331,23.3%,0.1604,0.8396,1.0000,95.19,高优先级内容机会,R0002;R0007;R0013,coverage:Apple AirPods:佩戴舒适;coverage:Bose:佩戴舒适;coverage:华为 FreeBuds:佩戴舒适;coverage:索尼:佩戴舒适
+价格,0.1128,11.3%,0.1129,0.8871,1.0000,70.81,候选内容机会,R0005;R0025;R0026,coverage:Apple AirPods:价格;coverage:Bose:价格;coverage:华为 FreeBuds:价格;coverage:索尼:价格
+音质,0.1128,11.3%,0.1205,0.8795,1.0000,70.58,候选内容机会,R0002;R0005;R0016,coverage:Apple AirPods:音质;coverage:Bose:音质;coverage:华为 FreeBuds:音质;coverage:索尼:音质
+包装,0.0927,9.3%,0.0199,0.9801,1.0000,69.29,候选内容机会,R0017;R0058;R0065,coverage:Apple AirPods:包装;coverage:Bose:包装;coverage:华为 FreeBuds:包装;coverage:索尼:包装
+连接稳定,0.0802,8.0%,0.0475,0.9526,1.0000,65.78,候选内容机会,R0020;R0042;R0043,coverage:Apple AirPods:连接稳定;coverage:Bose:连接稳定;coverage:华为 FreeBuds:连接稳定;coverage:索尼:连接稳定
+通话,0.0727,7.3%,0.0725,0.9275,0.0000,43.42,候选内容机会,,coverage:Apple AirPods:通话;coverage:Bose:通话;coverage:华为 FreeBuds:通话;coverage:索尼:通话
+配送,0.0727,7.3%,0.1102,0.8898,0.0000,42.29,候选内容机会,,coverage:Apple AirPods:配送;coverage:Bose:配送;coverage:华为 FreeBuds:配送;coverage:索尼:配送
+续航,0.0501,5.0%,0.0953,0.9047,0.0000,37.90,伪机会：用户关注度不足,,coverage:Apple AirPods:续航;coverage:Bose:续航;coverage:华为 FreeBuds:续航;coverage:索尼:续航
+降噪,0.0276,2.8%,0.1380,0.8620,0.0000,31.77,伪机会：用户关注度不足,,coverage:Apple AirPods:降噪;coverage:Bose:降噪;coverage:华为 FreeBuds:降噪;coverage:索尼:降噪
